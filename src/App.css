@@ -1,0 +1,18 @@
+body{
+  margin: 0;
+  padding: 0;
+  
+}
+.design{
+  display: flex;
+  gap: 10px;
+}
+
+.box{
+  width: 50px;
+  height: 50px;  
+  background-color: lightblue;
+}
+.addColor{
+  background-color: green;
+}
